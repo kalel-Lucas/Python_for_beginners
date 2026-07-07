@@ -29,7 +29,6 @@ def main():
             print("Até a próxima :)")
             print("Saindo...")
             break 
-    
-    if __name__ == "__main__":
-        main()
+if __name__ == "__main__":
+    main()
 
