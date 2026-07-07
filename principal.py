@@ -13,7 +13,7 @@ def main():
     """
     while rodando: 
         print(menu)
-        opcao = input("DIGITE ABAIXO O NÚMERO CORRESPONDENTE PARA A OPÇÃO QUE QUEIRA:")
+        opcao = input("DIGITE ABAIXO O NÚMERO CORRESPONDENTE PARA A OPÇÃO QUE QUEIRA: ")
         if opcao not in ["1","2","3","4"]:
             print("Opção inválida! digite novamente.")
             continue 
